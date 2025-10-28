@@ -31,6 +31,6 @@
 ---
 
 ## 🏁 Summary
-Day 1 of the **100 Days of DSA – Core Edition** ✅  
+Day 1 of the **100 Days of DSA** ✅  
 Refreshed array basics and implemented two classic problems in Java.  
 A great start to consistency and logical problem-solving 💪
