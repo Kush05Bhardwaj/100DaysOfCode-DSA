@@ -22,6 +22,13 @@
 
 ---
 
+## 🧩 Output Screenshots
+| Problem | Result |
+|:--|:--|
+| Merge Sorted Array | ![MergeSortedArray_result](./MergeSortedArray.png) |
+
+---
+
 ## 🏁 Summary
 Day 8 of the **100 Days of DSA** ✅
 Mastered **in-place merging** using the **reverse two-pointer** technique — starting from the end to avoid overwriting elements.
