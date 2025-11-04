@@ -22,6 +22,13 @@
 
 ---
 
+## 🧩 Output Screenshots
+| Problem | Result |
+|:--|:--|
+| Monotonic Array | ![PalindromeNumber_result](./PalindromeNumber.png) |
+
+---
+
 ## 🏁 Summary
 
 Day 9 of the **100 Days of DSA** ✅
