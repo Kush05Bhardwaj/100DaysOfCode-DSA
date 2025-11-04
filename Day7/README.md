@@ -25,7 +25,7 @@
 ## 🧩 Output Screenshots
 | Problem | Result |
 |:--|:--|
-| Monotoni Array | ![MonotonicArray_result](./MonotonicArray.png) |
+| Monotonic Array | ![MonotonicArray_result](./MonotonicArray.png) |
 
 ---
 
