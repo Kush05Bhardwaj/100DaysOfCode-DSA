@@ -28,3 +28,9 @@
 | Max Consecutive Ones | ![MaxConsecutiveOnes_result](./MaxConsecutiveOnes.png) |
 
 ---
+
+## 🏁 Summary
+
+Day 10 of the **100 Days of DSA** ✅
+Practiced **iterative logic** for tracking consecutive sequences and updating dynamic counters.
+Strengthened problem-solving in **state maintenance and condition-driven counting** ⚡📊
