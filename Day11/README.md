@@ -25,7 +25,7 @@
 ## 🧩 Output Screenshots
 | Problem | Result |
 |:--|:--|
-| Max Consecutive Ones | ![ReplaceElementswithGreatestElementonRightSide_result](./ReplaceElementswithGreatestElementonRightSide.png) |
+| Replace Elements with Greatest Element on Right Side | ![ReplaceElementswithGreatestElementonRightSide_result](./ReplaceElementswithGreatestElementonRightSide.png) |
 
 ---
 
