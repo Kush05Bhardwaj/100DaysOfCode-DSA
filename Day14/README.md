@@ -28,3 +28,9 @@
 | Find First and Last Position of Element in Sorted Array | ![FindFirstandLastPositionofElementinSortedArray_result](./FindFirstandLastPositionofElementinSortedArray.png) |
 
 ---
+
+## 🏁 Summary
+
+Day 14 of the **100 Days of DSA** ✅
+Mastered the **two-pass binary search** technique to efficiently locate the range of a target element in a sorted array.
+Improved understanding of **boundary conditions, loop logic, and precision control** in search algorithms 🎯⚙️
