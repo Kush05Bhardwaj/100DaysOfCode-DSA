@@ -24,6 +24,13 @@
 
 ---
 
+## 🧩 Output Screenshots
+| Problem | Result |
+|:--|:--|
+| Uncommon Words from Two Sentences | ![UncommonWordsfromTwoSentences_result](./UncommonWordsfromTwoSentences.png) |
+
+---
+
 ## 🏁 Summary
 Day 29 of the **100 Days of DSA** ✅
 Solved **Uncommon Words from Two Sentences** using a simple and effective frequency counting approach.
