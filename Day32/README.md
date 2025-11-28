@@ -24,6 +24,13 @@
 
 ---
 
+## 🧩 Output Screenshots
+| Problem | Result |
+|:--|:--|
+| Fizz Buzz | ![FizzBuzz_result](./FizzBuzz.png) |
+
+---
+
 ## 🏁 Summary
 Day 32 of the **100 Days of DSA** ✅
 Solved the classic **Fizz Buzz** challenge by combining **looping + string formatting + conditional branching**.
