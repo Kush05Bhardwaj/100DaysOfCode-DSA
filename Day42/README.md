@@ -27,8 +27,14 @@
 
 ---
 
-## 🏁 Summary
+## 🧩 Output Screenshots
+| Problem | Result |
+|:--|:--|
+|Pascal's Triangle | ![Pascal'sTriangle_result](./Pascal'sTriangle.png) |
 
+---
+
+## 🏁 Summary
 Day 42 of the **100 Days of DSA** 🔺
 Generated Pascal’s Triangle using a clean **recursive approach**, reinforcing concepts of:
 - row dependencies
