@@ -30,6 +30,13 @@
 
 ---
 
+## 🧩 Output Screenshots
+| Problem | Result |
+|:--|:--|
+| Intersection of TwoArrays II | ![IntersectionofTwoArraysII_result](./IntersectionofTwoArraysII.png) |
+
+---
+
 ## 🏁 Summary
 
 Day 49 of the **100 Days of DSA** 🔗
